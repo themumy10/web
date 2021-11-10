@@ -1704,60 +1704,60 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 /* Services
 ================================================== */
 /* Service box */
-.ts-service-box .ts-service-icon i {
+.ts-hizmet-box .ts-hizmet-icon i {
   font-size: 36px;
   float: left;
   color: #ffb600;
 }
 
-.ts-service-box .ts-service-box-content {
+.ts-hizmet-box .ts-hizmet-box-content {
   margin-left: 62px;
   margin-bottom: 30px;
 }
 
-.tab-content .ts-service-box .ts-service-box-content {
+.tab-content .ts-hizmet-box .ts-hizmet-box-content {
   margin-left: 90px;
 }
 
-.ts-service-box .ts-service-box-content h3 {
+.ts-hizmet-box .ts-hizmet-box-content h3 {
   font-size: 16px;
   margin-bottom: 10px;
   line-height: 28px;
 }
 
-.ts-service-box .ts-service-box-info {
+.ts-hizmet-box .ts-hizmet-box-info {
   margin-left: 25px;
   margin-bottom: 40px;
 }
 
-.service-box-title {
+.hizmet-box-title {
   font-size: 16px;
   margin: 0 0 10px;
 }
 
-.service-box-title a {
+.hizmet-box-title a {
   color: #333;
 }
 
-.service-box-title a:hover {
+.hizmet-box-title a:hover {
   color: #ffb600;
 }
 
 /* Service box bg */
-.ts-service-box-bg {
+.ts-hizmet-box-bg {
   background: #252525;
   color: #fff;
   padding: 30px;
 }
 
-.ts-service-box-bg h4,
-.ts-service-box-bg h3 {
+.ts-hizmet-box-bg h4,
+.ts-hizmet-box-bg h3 {
   color: #fff;
 }
 
 /* Service box 
 
-.ts-service-box .ts-service-icon i {
+.ts-hizmet-box .ts-hizmet-icon i {
   font-size: 24px;
   float: left;
   color: #fff;
@@ -1769,44 +1769,44 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   text-align: center;
 }
 
-.ts-service-box .ts-service-box-content {
+.ts-hizmet-box .ts-hizmet-box-content {
   margin-left: 80px;
   margin-bottom: 30px;
 }
 
-.tab-content .ts-service-box .ts-service-box-content {
+.tab-content .ts-hizmet-box .ts-hizmet-box-content {
   margin-left: 90px;
 }
 
-.ts-service-box .ts-service-box-content h3 {
+.ts-hizmet-box .ts-hizmet-box-content h3 {
   font-size: 18px;
   margin-bottom: 15px;
 }
 
-.ts-service-box .ts-service-box-info {
+.ts-hizmet-box .ts-hizmet-box-info {
   margin-left: 90px;
   margin-bottom: 40px;
 }
 
-.service-box-title {
+.hizmet-box-title {
   font-size: 18px;
   margin: 0 0 10px;
 }
 
-.service-box-title a {
+.hizmet-box-title a {
   color: #333;
 }
 
-.service-box-title a:hover {
+.hizmet-box-title a:hover {
   color: $color-primary;
 }
 
-.service-center-img {
+.hizmet-center-img {
   padding: 0 20px;
 }
 */
 /* Icon squre */
-.ts-service-icon.icon-round i {
+.ts-hizmet-icon.icon-round i {
   font-size: 24px;
   color: #fff;
   background: #ffb600;
@@ -1821,73 +1821,73 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 }
 
 /* Icon left */
-.ts-service-box.icon-left .ts-service-box-icon {
+.ts-hizmet-box.icon-left .ts-hizmet-box-icon {
   float: left;
 }
 
-.ts-service-box.icon-left .ts-service-box-icon i {
+.ts-hizmet-box.icon-left .ts-hizmet-box-icon i {
   background: #ffb600;
   color: #fff;
 }
 
-.ts-service-box.icon-left .ts-service-box-info {
+.ts-hizmet-box.icon-left .ts-hizmet-box-info {
   margin-left: 90px;
 }
 
-.ts-service-box.icon-left .ts-service-box-info h3 {
+.ts-hizmet-box.icon-left .ts-hizmet-box-info h3 {
   margin-top: 0;
   margin-bottom: 5px;
 }
 
 /* Service no box */
-.service-no {
+.hizmet-no {
   font-size: 48px;
   color: #dbdbdb;
   float: left;
   margin-top: 10px;
 }
 
-.ts-service-box-content .ts-service-box-info {
+.ts-hizmet-box-content .ts-hizmet-box-info {
   margin-left: 90px;
 }
 
 /* Service Image */
-.ts-service-image-wrapper {
+.ts-hizmet-image-wrapper {
   margin-bottom: 30px;
 }
 
-.ts-service-icon i {
+.ts-hizmet-icon i {
   font-size: 28px;
   margin-right: 15px;
   margin-top: 2px;
 }
 
-.ts-service-info {
+.ts-hizmet-info {
   margin-left: 30px;
 }
 
 @media (max-width: 1200px) {
-  .ts-service-info {
+  .ts-hizmet-info {
     margin-left: 15px;
   }
 }
 
-.ts-service-info h3 {
+.ts-hizmet-info h3 {
   font-size: 16px;
 }
 
-.ts-service-info .learn-more {
+.ts-hizmet-info .learn-more {
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 600;
 }
 
-.ts-service-info .learn-more:hover {
+.ts-hizmet-info .learn-more:hover {
   color: #ffb600;
 }
 
 /* Service Classic */
-.ts-service-classic .ts-service-icon i {
+.ts-hizmet-classic .ts-hizmet-icon i {
   font-size: 24px;
   float: left;
   color: #fff;
@@ -1900,11 +1900,11 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   transition: all 0.3s;
 }
 
-.ts-service-classic .ts-service-box-info {
+.ts-hizmet-classic .ts-hizmet-box-info {
   margin-left: 80px;
 }
 
-.ts-service-classic:hover .ts-service-icon i {
+.ts-hizmet-classic:hover .ts-hizmet-icon i {
   background: #ffb600;
 }
 
@@ -3054,12 +3054,12 @@ label {
 }
 
 /* Contact page 2 */
-.ts-service-box.text-center .ts-service-icon.icon-squre i {
+.ts-hizmet-box.text-center .ts-hizmet-icon.icon-squre i {
   float: none;
   margin-bottom: 20px;
 }
 
-.ts-service-box.text-center .ts-service-box-content {
+.ts-hizmet-box.text-center .ts-hizmet-box-content {
   margin: 0;
 }
 
@@ -3443,11 +3443,11 @@ label {
 }
 
 /* Service menu */
-.sidebar ul.service-menu li {
+.sidebar ul.hizmet-menu li {
   width: 100%;
 }
 
-.sidebar ul.service-menu li a {
+.sidebar ul.hizmet-menu li a {
   background-color: #f4f4f4;
   padding: 15px 20px;
   border: 0;
@@ -3457,8 +3457,8 @@ label {
   display: block;
 }
 
-.sidebar ul.service-menu li.active a,
-.sidebar ul.service-menu li:hover a {
+.sidebar ul.hizmet-menu li.active a,
+.sidebar ul.hizmet-menu li:hover a {
   background: #ffb600;
   color: #fff;
   cursor: pointer;
